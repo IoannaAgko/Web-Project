@@ -1,0 +1,25 @@
+{
+  "name": "covid19",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "bluebird": "^3.7.2",
+    "body-parser": "^1.20.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dayjs": "^1.11.1",
+    "express": "^4.18.1",
+    "express-fileupload": "^1.3.1",
+    "express-session": "^1.17.2",
+    "http": "^0.0.1-security",
+    "jsonwebtoken": "^8.5.1",
+    "passport": "^0.5.2",
+    "passport-local": "^1.0.0",
+    "pg-promise": "^10.11.1"
+  }
+}
